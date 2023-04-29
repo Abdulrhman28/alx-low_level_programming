@@ -4,9 +4,11 @@
 #include "lists.h"
 
 /**
+ * first ->
  * main - check the code
  * 
- * Return: Always 0.
+ * secend -> 
+ * Return:should return  Always 0.
  */
 int main(void)
 {
@@ -29,4 +31,4 @@ int main(void)
     printf("-> %lu elements\n", n);
     free(new);
     return (0);
-}
+ }
